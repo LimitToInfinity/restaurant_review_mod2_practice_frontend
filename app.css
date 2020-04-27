@@ -1,0 +1,10 @@
+div {
+    background: linear-gradient(to left, red, purple);
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+form {
+    padding: 1rem;
+    background: white;
+}
